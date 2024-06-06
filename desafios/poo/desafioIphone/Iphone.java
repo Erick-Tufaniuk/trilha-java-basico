@@ -4,7 +4,7 @@ package desafios.poo.desafioIphone;
 public class Iphone implements ReprodutorMusical, NavegadorInternet, AparelhoTelefonico {
 
     public void ligarAparelho(){
-        System.out.println("Ligando aparelho");
+        System.out.println("Aparelho ligado");
     }
 
     public void tocar(){

@@ -5,6 +5,7 @@ public class Usuario {
     
     Iphone iphone = new Iphone();
 
+    iphone.ligarAparelho();
     iphone.exibirPagina("www.google.com");
     iphone.atender();
     iphone.ligar("5647-8783");
